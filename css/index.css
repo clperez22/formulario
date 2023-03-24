@@ -1,0 +1,38 @@
+.inicio{
+    margin: 1rem 0 0 1.5rem;
+}
+.cjag{
+    width: 343px;
+    height: 13.5rem;
+    background-color: var(--color4);
+    border: 0.01rem solid  var(--color1);
+    border-radius: 0.5rem;
+    padding: 3rem 2rem 2rem 1.5rem;
+}
+.text1{
+    font-size: 0.3rem;
+    color: var(--color2);
+}
+.texto{
+    height: 1rem;
+    width: 6.5rem;
+    margin: 0.3rem 0 0 0;
+    border: 0.01rem solid var(--color2);
+    border-radius: 0.2rem;
+    outline: none;
+}
+.text2{
+    margin: 2rem 0 0 0;
+    font-size: 0.3rem;
+    color: var(--color2);
+}
+.inicioB{
+    width: 163px;
+    height: 45px;
+    margin: 2rem 0 0 1rem;
+    color: aliceblue;
+    background-color: var(--color2);
+    border: solid var(--color2);
+    border-radius: 0.5rem;
+    cursor: pointer;
+}

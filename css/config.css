@@ -1,0 +1,25 @@
+/*Configuraciones básicas*/
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html{
+    background-color: var(--color3);
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px; 
+    
+}
+:root{
+    --color1 :rgb(196, 196, 196, 1); /*color de los bordes*/
+
+    --color2 :  rgb(61, 102, 151, 1); /*Color de los subtitulos y boton*/
+
+    --color3 :  #f8f8f8c2;/*color fondo*/
+    
+    --color4 :rgb(255, 255, 255, 1); /*caja grande*/
+}
